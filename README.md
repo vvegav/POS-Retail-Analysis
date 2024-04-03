@@ -38,7 +38,7 @@ In this project, I aimed to gain insights into the purchasing behavior of custom
 
 ## Author 🙌
 
-- [Vanessa Vega](https://github.com/vvegav)
+- [Vanessa Vega][(https://github.com/vvegav)]
 
 Feel free to explore the code and documentation in this repository. If you have any questions or feedback, please don't hesitate to reach out!
 
